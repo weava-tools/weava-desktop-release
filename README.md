@@ -1,11 +1,16 @@
 ﻿# weava-desktop-release
 
+### Semantic Versioning Specification (SemVer):
+A pre-release version number MAY be denoted by appending an arbitrary string immediately following the patch version and a decimal point. The string MUST be comprised of only alphanumerics plus dash [0-9A-Za-z-] and MUST begin with an alpha character [A-Za-z]. Pre-release versions satisfy but have a lower precedence than the associated normal version. Precedence SHOULD be determined by lexicographic ASCII sort order. For instance: 1.0.0.alpha1 < 1.0.0.beta1 < 1.0.0.beta2 < 1.0.0.rc1 < 1.0.0.
 
+
+
+### History (TODO)
 <table>
   <tr>
     <td colspan="2">Release</td>
     <td colspan="2">Beta Release</td>
-    <td colspan="2">Nightly Release</td>
+    <td colspan="2">Alpha Release</td>
   </tr>
 
   <tr>
