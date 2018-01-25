@@ -18,22 +18,24 @@
   </tr>
 
   <tr>
-  <td>1.0.0</td>
-      <td>Pending</td>
-      <td>1.0.0.beta.0</td>
-      <td>Pending</td>
+      <td rowspan="2">1.0.0</td>
+      <td rowspan="2">Pending</td>
+      <td rowspan="2">1.0.0.beta.0</td>
+      <td rowspan="2">Pending</td>
       <td>
-        <ul>
-            <li>1.0.1.nightly.1</li>
-            <li>1.0.1.nightly.0</li>
-        </ul>
+        1.0.1.nightly.1
       </td>
       <td>
-         <ul>
-            <li>2018-01-25</li>
-            <li>2018-01-25</li>
-        </ul>
+        2018-01-25
       </td>
   </tr>
+    <tr>
+        <td>
+          1.0.1.nightly.1
+        </td>
+        <td>
+          2018-01-25
+        </td>
+    </tr>
 
 </table>
