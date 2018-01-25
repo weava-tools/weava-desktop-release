@@ -1,4 +1,4 @@
-## Weava Desktop Change log (Nightly build)
+## Weava Desktop Change log (Alpha build)
 ### Note:
 1) Developer/Testers Only
 

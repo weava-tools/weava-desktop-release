@@ -23,7 +23,7 @@
       <td rowspan="2">1.0.0.beta.0</td>
       <td rowspan="2">2018-01-25</td>
       <td>
-        1.0.0.nightly.1
+        1.0.0.alpha.1
       </td>
       <td>
         2018-01-25
@@ -31,7 +31,7 @@
   </tr>
     <tr>
         <td>
-          1.0.0.nightly.0
+          1.0.0.alpha.0
         </td>
         <td>
           2018-01-25

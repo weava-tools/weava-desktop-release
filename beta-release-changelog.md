@@ -1,4 +1,4 @@
-## Weava Desktop Change log (Nightly build)
+## Weava Desktop Change log (Beta build)
 ### Note:
 1) For invited beta tester or demo new feature
 
