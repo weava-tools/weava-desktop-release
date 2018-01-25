@@ -21,7 +21,7 @@
       <td rowspan="2">1.0.0</td>
       <td rowspan="2">Pending</td>
       <td rowspan="2">1.0.0.beta.0</td>
-      <td rowspan="2">Pending</td>
+      <td rowspan="2">2018-01-25</td>
       <td>
         1.0.0.nightly.1
       </td>
